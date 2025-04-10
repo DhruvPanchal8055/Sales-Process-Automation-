@@ -7,6 +7,8 @@ With API: Scrapes data using ScrapingDog API and SerpAPI.
 Without API: Scrapes specific websites and performs multi-domain searches without requiring any API keys.
 
 The tool handles email campaigns and provides in-depth analytics to optimize outreach efforts.
+## Full Documentation Link :-
+https://drive.google.com/file/d/1TIytpj_AqGQjVZNiJniATd3MMz9_4vIq/view?usp=sharing
 
 ## Table of Contents
 - [Installation](#installation)
