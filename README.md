@@ -1,6 +1,12 @@
 # Sales Process Automation using Python and AI/ML
 
-A powerful sales process automation tool built to simplify lead generation, email campaigns, and lead categorization. This tool scrapes company data from websites like LinkedIn and Google using **ScrapingDog API** and **SerpAPI**, handles email campaigns, and provides in-depth analytics to optimize outreach efforts.
+A powerful sales process automation tool built to simplify lead generation, email campaigns, and lead categorization. This tool scrapes company data from websites like LinkedIn and Google. It supports two modes:
+
+With API: Scrapes data using ScrapingDog API and SerpAPI.
+
+Without API: Scrapes specific websites and performs multi-domain searches without requiring any API keys.
+
+The tool handles email campaigns and provides in-depth analytics to optimize outreach efforts.
 
 ## Table of Contents
 - [Installation](#installation)
