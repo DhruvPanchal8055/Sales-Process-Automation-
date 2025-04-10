@@ -153,7 +153,7 @@ You can extend this tool by adding more scraping options or improving the email 
 Free Trial Notes:
 SerpAPI and ScrapingDog both offer free trials that allow you to scrape up to 10 profiles. You can get started with these APIs and test the functionality. After the free trial is used, you'll need to upgrade to a paid plan or wait for it to reset.
 
-## Screen Shots
+## 📸 Screen Shots 📸
 ![1](https://github.com/user-attachments/assets/465f3cf5-aa6b-4274-b14f-c76eb69c97b9)
 
 ![image](https://github.com/user-attachments/assets/c88b38d8-86cf-4a90-a60b-9d763cccc1c3)
